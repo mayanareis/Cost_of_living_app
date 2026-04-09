@@ -1,0 +1,769 @@
+City,Country,Region,Lifestyle,Location_Preference,Apartment_Size,Rent_Monthly_USD,Utilities_Monthly_USD,Transport_Mode,Transportation_Monthly_USD,Groceries_Monthly_USD,Total_Monthly_USD,Latitude,Longitude
+Manila,Philippines,Asia-Pacific,Student,CityCenter,1BR,571.86,80,Public,20.34,120,792.2,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,CityCenter,1BR,571.86,80,Car,200,120,971.86,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,1BR,275.8,80,Public,20.34,120,496.14,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,1BR,275.8,80,Car,200,120,675.8,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,CityCenter,2BR,1312.72,96,Public,20.34,120,1549.06,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,CityCenter,2BR,1312.72,96,Car,200,120,1728.72,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,2BR,487.25,96,Public,20.34,120,723.6,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,2BR,487.25,96,Car,200,120,903.25,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,CityCenter,3BR,2053.58,112,Public,20.34,120,2305.92,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,CityCenter,3BR,2053.58,112,Car,200,120,2485.58,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,3BR,698.71,112,Public,20.34,120,951.05,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Student,OutsideCenter,3BR,698.71,112,Car,200,120,1130.71,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,1BR,571.86,80,Public,20.34,180,852.2,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,1BR,571.86,80,Car,200,180,1031.86,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,1BR,275.8,80,Public,20.34,180,556.14,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,1BR,275.8,80,Car,200,180,735.8,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,2BR,1312.72,96,Public,20.34,180,1609.06,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,2BR,1312.72,96,Car,200,180,1788.72,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,2BR,487.25,96,Public,20.34,180,783.6,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,2BR,487.25,96,Car,200,180,963.25,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,3BR,2053.58,112,Public,20.34,180,2365.92,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,CityCenter,3BR,2053.58,112,Car,200,180,2545.58,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,3BR,698.71,112,Public,20.34,180,1011.05,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Professional,OutsideCenter,3BR,698.71,112,Car,200,180,1190.71,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,CityCenter,2BR,1312.72,115.2,Public,20.34,350,1798.26,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,CityCenter,2BR,1312.72,115.2,Car,200,350,1977.92,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,OutsideCenter,2BR,487.25,115.2,Public,20.34,350,972.8,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,OutsideCenter,2BR,487.25,115.2,Car,200,350,1152.46,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,CityCenter,3BR,2053.58,134.4,Public,20.34,350,2558.32,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,CityCenter,3BR,2053.58,134.4,Car,200,350,2737.98,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,OutsideCenter,3BR,698.71,134.4,Public,20.34,350,1203.45,14.5995,120.9842
+Manila,Philippines,Asia-Pacific,Family,OutsideCenter,3BR,698.71,134.4,Car,200,350,1383.11,14.5995,120.9842
+Mexico City,Mexico,North America,Student,CityCenter,1BR,1474.7,100,Public,41.21,130,1745.91,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,CityCenter,1BR,1474.7,100,Car,250,130,1954.7,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,1BR,812.28,100,Public,41.21,130,1083.49,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,1BR,812.28,100,Car,250,130,1292.28,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,CityCenter,2BR,2381.72,120,Public,41.21,130,2672.93,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,CityCenter,2BR,2381.72,120,Car,250,130,2881.72,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,2BR,1193.82,120,Public,41.21,130,1485.03,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,2BR,1193.82,120,Car,250,130,1693.82,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,CityCenter,3BR,3288.75,140,Public,41.21,130,3599.96,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,CityCenter,3BR,3288.75,140,Car,250,130,3808.75,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,3BR,1575.37,140,Public,41.21,130,1886.58,19.4326,-99.1332
+Mexico City,Mexico,North America,Student,OutsideCenter,3BR,1575.37,140,Car,250,130,2095.37,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,1BR,1474.7,100,Public,41.21,200,1815.91,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,1BR,1474.7,100,Car,250,200,2024.7,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,1BR,812.28,100,Public,41.21,200,1153.49,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,1BR,812.28,100,Car,250,200,1362.28,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,2BR,2381.72,120,Public,41.21,200,2742.93,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,2BR,2381.72,120,Car,250,200,2951.72,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,2BR,1193.82,120,Public,41.21,200,1555.03,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,2BR,1193.82,120,Car,250,200,1763.82,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,3BR,3288.75,140,Public,41.21,200,3669.96,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,CityCenter,3BR,3288.75,140,Car,250,200,3878.75,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,3BR,1575.37,140,Public,41.21,200,1956.58,19.4326,-99.1332
+Mexico City,Mexico,North America,Professional,OutsideCenter,3BR,1575.37,140,Car,250,200,2165.37,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,CityCenter,2BR,2381.72,144,Public,41.21,380,2946.93,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,CityCenter,2BR,2381.72,144,Car,250,380,3155.72,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,OutsideCenter,2BR,1193.82,144,Public,41.21,380,1759.03,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,OutsideCenter,2BR,1193.82,144,Car,250,380,1967.82,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,CityCenter,3BR,3288.75,168,Public,41.21,380,3877.96,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,CityCenter,3BR,3288.75,168,Car,250,380,4086.75,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,OutsideCenter,3BR,1575.37,168,Public,41.21,380,2164.58,19.4326,-99.1332
+Mexico City,Mexico,North America,Family,OutsideCenter,3BR,1575.37,168,Car,250,380,2373.37,19.4326,-99.1332
+Moscow,Russia,Europe,Student,CityCenter,1BR,4468.58,150,Public,132.5,180,4931.08,55.7569,37.6151
+Moscow,Russia,Europe,Student,CityCenter,1BR,4468.58,150,Car,350,180,5148.58,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,1BR,2909,150,Public,132.5,180,3371.5,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,1BR,2909,150,Car,350,180,3589,55.7569,37.6151
+Moscow,Russia,Europe,Student,CityCenter,2BR,6894.16,180,Public,132.5,180,7386.66,55.7569,37.6151
+Moscow,Russia,Europe,Student,CityCenter,2BR,6894.16,180,Car,350,180,7604.16,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,2BR,4065.89,180,Public,132.5,180,4558.39,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,2BR,4065.89,180,Car,350,180,4775.89,55.7569,37.6151
+Moscow,Russia,Europe,Student,CityCenter,3BR,9319.74,210,Public,132.5,180,9842.24,55.7569,37.6151
+Moscow,Russia,Europe,Student,CityCenter,3BR,9319.74,210,Car,350,180,10059.74,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,3BR,5222.78,210,Public,132.5,180,5745.28,55.7569,37.6151
+Moscow,Russia,Europe,Student,OutsideCenter,3BR,5222.78,210,Car,350,180,5962.78,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,1BR,4468.58,150,Public,132.5,260,5011.08,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,1BR,4468.58,150,Car,350,260,5228.58,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,1BR,2909,150,Public,132.5,260,3451.5,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,1BR,2909,150,Car,350,260,3669,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,2BR,6894.16,180,Public,132.5,260,7466.66,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,2BR,6894.16,180,Car,350,260,7684.16,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,2BR,4065.89,180,Public,132.5,260,4638.39,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,2BR,4065.89,180,Car,350,260,4855.89,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,3BR,9319.74,210,Public,132.5,260,9922.24,55.7569,37.6151
+Moscow,Russia,Europe,Professional,CityCenter,3BR,9319.74,210,Car,350,260,10139.74,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,3BR,5222.78,210,Public,132.5,260,5825.28,55.7569,37.6151
+Moscow,Russia,Europe,Professional,OutsideCenter,3BR,5222.78,210,Car,350,260,6042.78,55.7569,37.6151
+Moscow,Russia,Europe,Family,CityCenter,2BR,6894.16,216,Public,132.5,500,7742.66,55.7569,37.6151
+Moscow,Russia,Europe,Family,CityCenter,2BR,6894.16,216,Car,350,500,7960.16,55.7569,37.6151
+Moscow,Russia,Europe,Family,OutsideCenter,2BR,4065.89,216,Public,132.5,500,4914.39,55.7569,37.6151
+Moscow,Russia,Europe,Family,OutsideCenter,2BR,4065.89,216,Car,350,500,5131.89,55.7569,37.6151
+Moscow,Russia,Europe,Family,CityCenter,3BR,9319.74,252,Public,132.5,500,10204.24,55.7569,37.6151
+Moscow,Russia,Europe,Family,CityCenter,3BR,9319.74,252,Car,350,500,10421.74,55.7569,37.6151
+Moscow,Russia,Europe,Family,OutsideCenter,3BR,5222.78,252,Public,132.5,500,6107.28,55.7569,37.6151
+Moscow,Russia,Europe,Family,OutsideCenter,3BR,5222.78,252,Car,350,500,6324.78,55.7569,37.6151
+New York City,USA,North America,Student,CityCenter,1BR,1592.88,180,Public,103.94,450,2326.82,40.7128,-74.0060
+New York City,USA,North America,Student,CityCenter,1BR,1592.88,180,Car,450,450,2672.88,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,1BR,1167.09,180,Public,103.94,450,1901.03,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,1BR,1167.09,180,Car,450,450,2247.09,40.7128,-74.0060
+New York City,USA,North America,Student,CityCenter,2BR,2519.89,216,Public,103.94,450,3289.84,40.7128,-74.0060
+New York City,USA,North America,Student,CityCenter,2BR,2519.89,216,Car,450,450,3635.89,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,2BR,1757.74,216,Public,103.94,450,2527.68,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,2BR,1757.74,216,Car,450,450,2873.74,40.7128,-74.0060
+New York City,USA,North America,Student,CityCenter,3BR,3446.91,252,Public,103.94,450,4252.85,40.7128,-74.0060
+New York City,USA,North America,Student,CityCenter,3BR,3446.91,252,Car,450,450,4598.91,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,3BR,2348.38,252,Public,103.94,450,3154.32,40.7128,-74.0060
+New York City,USA,North America,Student,OutsideCenter,3BR,2348.38,252,Car,450,450,3500.38,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,1BR,1592.88,180,Public,103.94,650,2526.82,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,1BR,1592.88,180,Car,450,650,2872.88,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,1BR,1167.09,180,Public,103.94,650,2101.03,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,1BR,1167.09,180,Car,450,650,2447.09,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,2BR,2519.89,216,Public,103.94,650,3489.84,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,2BR,2519.89,216,Car,450,650,3835.89,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,2BR,1757.74,216,Public,103.94,650,2727.68,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,2BR,1757.74,216,Car,450,650,3073.74,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,3BR,3446.91,252,Public,103.94,650,4452.85,40.7128,-74.0060
+New York City,USA,North America,Professional,CityCenter,3BR,3446.91,252,Car,450,650,4798.91,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,3BR,2348.38,252,Public,103.94,650,3354.32,40.7128,-74.0060
+New York City,USA,North America,Professional,OutsideCenter,3BR,2348.38,252,Car,450,650,3700.38,40.7128,-74.0060
+New York City,USA,North America,Family,CityCenter,2BR,2519.89,259.2,Public,103.94,1300,4183.03,40.7128,-74.0060
+New York City,USA,North America,Family,CityCenter,2BR,2519.89,259.2,Car,450,1300,4529.1,40.7128,-74.0060
+New York City,USA,North America,Family,OutsideCenter,2BR,1757.74,259.2,Public,103.94,1300,3420.88,40.7128,-74.0060
+New York City,USA,North America,Family,OutsideCenter,2BR,1757.74,259.2,Car,450,1300,3766.93,40.7128,-74.0060
+New York City,USA,North America,Family,CityCenter,3BR,3446.91,302.4,Public,103.94,1300,5153.25,40.7128,-74.0060
+New York City,USA,North America,Family,CityCenter,3BR,3446.91,302.4,Car,450,1300,5499.31,40.7128,-74.0060
+New York City,USA,North America,Family,OutsideCenter,3BR,2348.38,302.4,Public,103.94,1300,4054.72,40.7128,-74.0060
+New York City,USA,North America,Family,OutsideCenter,3BR,2348.38,302.4,Car,450,1300,4400.78,40.7128,-74.0060
+Paris,France,Europe,Student,CityCenter,1BR,895.58,120,Public,54.28,400,1469.86,48.8575,2.3514
+Paris,France,Europe,Student,CityCenter,1BR,895.58,120,Car,280,400,1695.58,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,1BR,531.9,120,Public,54.28,400,1106.18,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,1BR,531.9,120,Car,280,400,1331.9,48.8575,2.3514
+Paris,France,Europe,Student,CityCenter,2BR,1278.06,144,Public,54.28,400,1876.34,48.8575,2.3514
+Paris,France,Europe,Student,CityCenter,2BR,1278.06,144,Car,280,400,2102.06,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,2BR,772.59,144,Public,54.28,400,1370.87,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,2BR,772.59,144,Car,280,400,1596.59,48.8575,2.3514
+Paris,France,Europe,Student,CityCenter,3BR,1660.54,168,Public,54.28,400,2282.82,48.8575,2.3514
+Paris,France,Europe,Student,CityCenter,3BR,1660.54,168,Car,280,400,2508.54,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,3BR,1013.27,168,Public,54.28,400,1635.55,48.8575,2.3514
+Paris,France,Europe,Student,OutsideCenter,3BR,1013.27,168,Car,280,400,1861.27,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,1BR,895.58,120,Public,54.28,580,1649.86,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,1BR,895.58,120,Car,280,580,1875.58,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,1BR,531.9,120,Public,54.28,580,1286.18,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,1BR,531.9,120,Car,280,580,1511.9,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,2BR,1278.06,144,Public,54.28,580,2056.34,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,2BR,1278.06,144,Car,280,580,2282.06,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,2BR,772.59,144,Public,54.28,580,1550.87,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,2BR,772.59,144,Car,280,580,1776.59,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,3BR,1660.54,168,Public,54.28,580,2462.82,48.8575,2.3514
+Paris,France,Europe,Professional,CityCenter,3BR,1660.54,168,Car,280,580,2688.54,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,3BR,1013.27,168,Public,54.28,580,1815.55,48.8575,2.3514
+Paris,France,Europe,Professional,OutsideCenter,3BR,1013.27,168,Car,280,580,2041.27,48.8575,2.3514
+Paris,France,Europe,Family,CityCenter,2BR,1278.06,172.8,Public,54.28,1200,2705.14,48.8575,2.3514
+Paris,France,Europe,Family,CityCenter,2BR,1278.06,172.8,Car,280,1200,2930.86,48.8575,2.3514
+Paris,France,Europe,Family,OutsideCenter,2BR,772.59,172.8,Public,54.28,1200,2199.66,48.8575,2.3514
+Paris,France,Europe,Family,OutsideCenter,2BR,772.59,172.8,Car,280,1200,2425.39,48.8575,2.3514
+Paris,France,Europe,Family,CityCenter,3BR,1660.54,201.6,Public,54.28,1200,3116.42,48.8575,2.3514
+Paris,France,Europe,Family,CityCenter,3BR,1660.54,201.6,Car,280,1200,3342.14,48.8575,2.3514
+Paris,France,Europe,Family,OutsideCenter,3BR,1013.27,201.6,Public,54.28,1200,2469.15,48.8575,2.3514
+Paris,France,Europe,Family,OutsideCenter,3BR,1013.27,201.6,Car,280,1200,2694.87,48.8575,2.3514
+Saint Petersburg,Russia,Europe,Student,CityCenter,1BR,825.43,70,Public,28.98,180,1104.41,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,CityCenter,1BR,825.43,70,Car,220,180,1295.43,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,1BR,510.53,70,Public,28.98,180,789.51,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,1BR,510.53,70,Car,220,180,980.53,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,CityCenter,2BR,1485.84,84,Public,28.98,180,1778.82,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,CityCenter,2BR,1485.84,84,Car,220,180,1969.84,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,2BR,831.51,84,Public,28.98,180,1124.49,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,2BR,831.51,84,Car,220,180,1315.51,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,CityCenter,3BR,2146.25,98,Public,28.98,180,2453.23,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,CityCenter,3BR,2146.25,98,Car,220,180,2644.25,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,3BR,1152.49,98,Public,28.98,180,1459.47,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Student,OutsideCenter,3BR,1152.49,98,Car,220,180,1650.49,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,1BR,825.43,70,Public,28.98,260,1184.41,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,1BR,825.43,70,Car,220,260,1375.43,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,1BR,510.53,70,Public,28.98,260,869.51,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,1BR,510.53,70,Car,220,260,1060.53,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,2BR,1485.84,84,Public,28.98,260,1858.82,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,2BR,1485.84,84,Car,220,260,2049.84,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,2BR,831.51,84,Public,28.98,260,1204.49,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,2BR,831.51,84,Car,220,260,1395.51,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,3BR,2146.25,98,Public,28.98,260,2533.23,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,CityCenter,3BR,2146.25,98,Car,220,260,2724.25,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,3BR,1152.49,98,Public,28.98,260,1539.47,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Professional,OutsideCenter,3BR,1152.49,98,Car,220,260,1730.49,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,CityCenter,2BR,1485.84,100.8,Public,28.98,500,2115.62,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,CityCenter,2BR,1485.84,100.8,Car,220,500,2306.64,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,OutsideCenter,2BR,831.51,100.8,Public,28.98,500,1461.29,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,OutsideCenter,2BR,831.51,100.8,Car,220,500,1652.31,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,CityCenter,3BR,2146.25,117.6,Public,28.98,500,2792.83,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,CityCenter,3BR,2146.25,117.6,Car,220,500,2983.85,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,OutsideCenter,3BR,1152.49,117.6,Public,28.98,500,1799.07,59.9311,30.3609
+Saint Petersburg,Russia,Europe,Family,OutsideCenter,3BR,1152.49,117.6,Car,220,500,1990.09,59.9311,30.3609
+Shanghai,China,Asia-Pacific,Student,CityCenter,1BR,1145.85,100,Public,69.81,200,1515.66,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,CityCenter,1BR,1145.85,100,Car,250,200,1695.85,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,1BR,646.46,100,Public,69.81,200,1016.27,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,1BR,646.46,100,Car,250,200,1196.46,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,CityCenter,2BR,1624.42,120,Public,69.81,200,2014.23,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,CityCenter,2BR,1624.42,120,Car,250,200,2194.43,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,2BR,942.78,120,Public,69.81,200,1332.59,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,2BR,942.78,120,Car,250,200,1512.78,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,CityCenter,3BR,2103,140,Public,69.81,200,2512.81,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,CityCenter,3BR,2103,140,Car,250,200,2693,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,3BR,1239.11,140,Public,69.81,200,1648.92,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Student,OutsideCenter,3BR,1239.11,140,Car,250,200,1829.11,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,1BR,1145.85,100,Public,69.81,280,1595.66,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,1BR,1145.85,100,Car,250,280,1775.85,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,1BR,646.46,100,Public,69.81,280,1096.27,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,1BR,646.46,100,Car,250,280,1276.46,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,2BR,1624.42,120,Public,69.81,280,2094.23,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,2BR,1624.42,120,Car,250,280,2274.43,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,2BR,942.78,120,Public,69.81,280,1412.59,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,2BR,942.78,120,Car,250,280,1592.78,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,3BR,2103,140,Public,69.81,280,2592.81,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,CityCenter,3BR,2103,140,Car,250,280,2773,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,3BR,1239.11,140,Public,69.81,280,1728.92,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Professional,OutsideCenter,3BR,1239.11,140,Car,250,280,1909.11,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,CityCenter,2BR,1624.42,144,Public,69.81,550,2388.24,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,CityCenter,2BR,1624.42,144,Car,250,550,2568.43,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,OutsideCenter,2BR,942.78,144,Public,69.81,550,1706.59,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,OutsideCenter,2BR,942.78,144,Car,250,550,1886.78,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,CityCenter,3BR,2103,168,Public,69.81,550,2890.81,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,CityCenter,3BR,2103,168,Car,250,550,3071,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,OutsideCenter,3BR,1239.11,168,Public,69.81,550,2026.92,31.2304,121.4737
+Shanghai,China,Asia-Pacific,Family,OutsideCenter,3BR,1239.11,168,Car,250,550,2207.11,31.2304,121.4737
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,1BR,1684.93,150,Public,114.04,300,2248.97,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,1BR,1684.93,150,Car,350,300,2484.93,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,1BR,1465.82,150,Public,114.04,300,2029.86,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,1BR,1465.82,150,Car,350,300,2265.82,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,2BR,2195.51,180,Public,114.04,300,2789.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,2BR,2195.51,180,Car,350,300,3025.51,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,2BR,1868.55,180,Public,114.04,300,2462.59,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,2BR,1868.55,180,Car,350,300,2698.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,3BR,2706.1,210,Public,114.04,300,3330.14,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,CityCenter,3BR,2706.1,210,Car,350,300,3566.1,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,3BR,2271.28,210,Public,114.04,300,2895.32,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Student,OutsideCenter,3BR,2271.28,210,Car,350,300,3131.28,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,1BR,1684.93,150,Public,114.04,420,2368.97,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,1BR,1684.93,150,Car,350,420,2604.93,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,1BR,1465.82,150,Public,114.04,420,2149.86,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,1BR,1465.82,150,Car,350,420,2385.82,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,2BR,2195.51,180,Public,114.04,420,2909.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,2BR,2195.51,180,Car,350,420,3145.51,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,2BR,1868.55,180,Public,114.04,420,2582.59,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,2BR,1868.55,180,Car,350,420,2818.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,3BR,2706.1,210,Public,114.04,420,3450.14,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,CityCenter,3BR,2706.1,210,Car,350,420,3686.1,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,3BR,2271.28,210,Public,114.04,420,3015.32,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Professional,OutsideCenter,3BR,2271.28,210,Car,350,420,3251.28,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,CityCenter,2BR,2195.51,216,Public,114.04,900,3425.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,CityCenter,2BR,2195.51,216,Car,350,900,3661.51,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,OutsideCenter,2BR,1868.55,216,Public,114.04,900,3098.59,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,OutsideCenter,2BR,1868.55,216,Car,350,900,3334.55,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,CityCenter,3BR,2706.1,252,Public,114.04,900,3972.14,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,CityCenter,3BR,2706.1,252,Car,350,900,4208.1,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,OutsideCenter,3BR,2271.28,252,Public,114.04,900,3537.32,35.6764,139.6500
+Tokyo,Japan,Asia-Pacific,Family,OutsideCenter,3BR,2271.28,252,Car,350,900,3773.28,35.6764,139.6500
+Toronto,Canada,North America,Student,CityCenter,1BR,2100,140,Public,130,300,2670,43.6548,-79.3884
+Toronto,Canada,North America,Student,CityCenter,1BR,2100,140,Car,400,300,2940,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,1BR,1600,140,Public,130,300,2170,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,1BR,1600,140,Car,400,300,2440,43.6548,-79.3884
+Toronto,Canada,North America,Student,CityCenter,2BR,2800,168,Public,130,300,3398,43.6548,-79.3884
+Toronto,Canada,North America,Student,CityCenter,2BR,2800,168,Car,400,300,3668,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,2BR,2200,168,Public,130,300,2798,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,2BR,2200,168,Car,400,300,3068,43.6548,-79.3884
+Toronto,Canada,North America,Student,CityCenter,3BR,3500,196,Public,130,300,4126,43.6548,-79.3884
+Toronto,Canada,North America,Student,CityCenter,3BR,3500,196,Car,400,300,4396,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,3BR,2800,196,Public,130,300,3426,43.6548,-79.3884
+Toronto,Canada,North America,Student,OutsideCenter,3BR,2800,196,Car,400,300,3696,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,1BR,2100,140,Public,130,420,2790,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,1BR,2100,140,Car,400,420,3060,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,1BR,1600,140,Public,130,420,2290,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,1BR,1600,140,Car,400,420,2560,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,2BR,2800,168,Public,130,420,3518,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,2BR,2800,168,Car,400,420,3788,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,2BR,2200,168,Public,130,420,2918,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,2BR,2200,168,Car,400,420,3188,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,3BR,3500,196,Public,130,420,4246,43.6548,-79.3884
+Toronto,Canada,North America,Professional,CityCenter,3BR,3500,196,Car,400,420,4516,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,3BR,2800,196,Public,130,420,3546,43.6548,-79.3884
+Toronto,Canada,North America,Professional,OutsideCenter,3BR,2800,196,Car,400,420,3816,43.6548,-79.3884
+Toronto,Canada,North America,Family,CityCenter,2BR,2800,201.6,Public,130,900,4031.6,43.6548,-79.3884
+Toronto,Canada,North America,Family,CityCenter,2BR,2800,201.6,Car,400,900,4301.6,43.6548,-79.3884
+Toronto,Canada,North America,Family,OutsideCenter,2BR,2200,201.6,Public,130,900,3431.6,43.6548,-79.3884
+Toronto,Canada,North America,Family,OutsideCenter,2BR,2200,201.6,Car,400,900,3701.6,43.6548,-79.3884
+Toronto,Canada,North America,Family,CityCenter,3BR,3500,235.2,Public,130,900,4765.2,43.6548,-79.3884
+Toronto,Canada,North America,Family,CityCenter,3BR,3500,235.2,Car,400,900,5035.2,43.6548,-79.3884
+Toronto,Canada,North America,Family,OutsideCenter,3BR,2800,235.2,Public,130,900,4065.2,43.6548,-79.3884
+Toronto,Canada,North America,Family,OutsideCenter,3BR,2800,235.2,Car,400,900,4335.2,43.6548,-79.3884
+Chicago,USA,North America,Student,CityCenter,1BR,2471.25,140,Public,75,400,3086.25,41.8832,-87.6324
+Chicago,USA,North America,Student,CityCenter,1BR,2471.25,140,Car,400,400,3411.25,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,1BR,1736.31,140,Public,75,400,2351.31,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,1BR,1736.31,140,Car,400,400,2676.31,41.8832,-87.6324
+Chicago,USA,North America,Student,CityCenter,2BR,3492.29,168,Public,75,400,4135.29,41.8832,-87.6324
+Chicago,USA,North America,Student,CityCenter,2BR,3492.29,168,Car,400,400,4460.29,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,2BR,2299.26,168,Public,75,400,2942.26,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,2BR,2299.26,168,Car,400,400,3267.26,41.8832,-87.6324
+Chicago,USA,North America,Student,CityCenter,3BR,4513.33,196,Public,75,400,5184.33,41.8832,-87.6324
+Chicago,USA,North America,Student,CityCenter,3BR,4513.33,196,Car,400,400,5509.33,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,3BR,2862.2,196,Public,75,400,3533.2,41.8832,-87.6324
+Chicago,USA,North America,Student,OutsideCenter,3BR,2862.2,196,Car,400,400,3858.2,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,1BR,2471.25,140,Public,75,580,3266.25,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,1BR,2471.25,140,Car,400,580,3591.25,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,1BR,1736.31,140,Public,75,580,2531.31,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,1BR,1736.31,140,Car,400,580,2856.31,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,2BR,3492.29,168,Public,75,580,4315.29,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,2BR,3492.29,168,Car,400,580,4640.29,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,2BR,2299.26,168,Public,75,580,3122.26,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,2BR,2299.26,168,Car,400,580,3447.26,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,3BR,4513.33,196,Public,75,580,5364.33,41.8832,-87.6324
+Chicago,USA,North America,Professional,CityCenter,3BR,4513.33,196,Car,400,580,5689.33,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,3BR,2862.2,196,Public,75,580,3713.2,41.8832,-87.6324
+Chicago,USA,North America,Professional,OutsideCenter,3BR,2862.2,196,Car,400,580,4038.2,41.8832,-87.6324
+Chicago,USA,North America,Family,CityCenter,2BR,3492.29,201.6,Public,75,1200,4968.89,41.8832,-87.6324
+Chicago,USA,North America,Family,CityCenter,2BR,3492.29,201.6,Car,400,1200,5293.89,41.8832,-87.6324
+Chicago,USA,North America,Family,OutsideCenter,2BR,2299.26,201.6,Public,75,1200,3775.86,41.8832,-87.6324
+Chicago,USA,North America,Family,OutsideCenter,2BR,2299.26,201.6,Car,400,1200,4100.86,41.8832,-87.6324
+Chicago,USA,North America,Family,CityCenter,3BR,4513.33,235.2,Public,75,1200,6023.53,41.8832,-87.6324
+Chicago,USA,North America,Family,CityCenter,3BR,4513.33,235.2,Car,400,1200,6348.53,41.8832,-87.6324
+Chicago,USA,North America,Family,OutsideCenter,3BR,2862.2,235.2,Public,75,1200,4372.4,41.8832,-87.6324
+Chicago,USA,North America,Family,OutsideCenter,3BR,2862.2,235.2,Car,400,1200,4697.4,41.8832,-87.6324
+Houston,USA,North America,Student,CityCenter,1BR,1070.41,90,Public,62.5,360,1582.91,29.7601,-95.3701
+Houston,USA,North America,Student,CityCenter,1BR,1070.41,90,Car,350,360,1870.41,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,1BR,662.4,90,Public,62.5,360,1174.9,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,1BR,662.4,90,Car,350,360,1462.4,29.7601,-95.3701
+Houston,USA,North America,Student,CityCenter,2BR,1503.46,108,Public,62.5,360,2033.96,29.7601,-95.3701
+Houston,USA,North America,Student,CityCenter,2BR,1503.46,108,Car,350,360,2321.46,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,2BR,918.12,108,Public,62.5,360,1448.62,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,2BR,918.12,108,Car,350,360,1736.12,29.7601,-95.3701
+Houston,USA,North America,Student,CityCenter,3BR,1936.51,126,Public,62.5,360,2485.01,29.7601,-95.3701
+Houston,USA,North America,Student,CityCenter,3BR,1936.51,126,Car,350,360,2772.51,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,3BR,1173.84,126,Public,62.5,360,1722.34,29.7601,-95.3701
+Houston,USA,North America,Student,OutsideCenter,3BR,1173.84,126,Car,350,360,2009.84,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,1BR,1070.41,90,Public,62.5,520,1742.91,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,1BR,1070.41,90,Car,350,520,2030.41,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,1BR,662.4,90,Public,62.5,520,1334.9,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,1BR,662.4,90,Car,350,520,1622.4,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,2BR,1503.46,108,Public,62.5,520,2193.96,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,2BR,1503.46,108,Car,350,520,2481.46,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,2BR,918.12,108,Public,62.5,520,1608.62,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,2BR,918.12,108,Car,350,520,1896.12,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,3BR,1936.51,126,Public,62.5,520,2645.01,29.7601,-95.3701
+Houston,USA,North America,Professional,CityCenter,3BR,1936.51,126,Car,350,520,2932.51,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,3BR,1173.84,126,Public,62.5,520,1882.34,29.7601,-95.3701
+Houston,USA,North America,Professional,OutsideCenter,3BR,1173.84,126,Car,350,520,2169.84,29.7601,-95.3701
+Houston,USA,North America,Family,CityCenter,2BR,1503.46,129.6,Public,62.5,1100,2795.56,29.7601,-95.3701
+Houston,USA,North America,Family,CityCenter,2BR,1503.46,129.6,Car,350,1100,3083.06,29.7601,-95.3701
+Houston,USA,North America,Family,OutsideCenter,2BR,918.12,129.6,Public,62.5,1100,2210.22,29.7601,-95.3701
+Houston,USA,North America,Family,OutsideCenter,2BR,918.12,129.6,Car,350,1100,2497.72,29.7601,-95.3701
+Houston,USA,North America,Family,CityCenter,3BR,1936.51,151.2,Public,62.5,1100,3250.21,29.7601,-95.3701
+Houston,USA,North America,Family,CityCenter,3BR,1936.51,151.2,Car,350,1100,3537.71,29.7601,-95.3701
+Houston,USA,North America,Family,OutsideCenter,3BR,1173.84,151.2,Public,62.5,1100,2487.54,29.7601,-95.3701
+Houston,USA,North America,Family,OutsideCenter,3BR,1173.84,151.2,Car,350,1100,2775.04,29.7601,-95.3701
+London,UK,Europe,Student,CityCenter,1BR,2689.38,180,Public,105,380,3354.38,51.5072,-0.1276
+London,UK,Europe,Student,CityCenter,1BR,2689.38,180,Car,450,380,3699.38,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,1BR,2418.95,180,Public,105,380,3083.95,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,1BR,2418.95,180,Car,450,380,3428.95,51.5072,-0.1276
+London,UK,Europe,Student,CityCenter,2BR,4259.75,216,Public,105,380,4960.75,51.5072,-0.1276
+London,UK,Europe,Student,CityCenter,2BR,4259.75,216,Car,450,380,5305.75,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,2BR,3185.76,216,Public,105,380,3886.76,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,2BR,3185.76,216,Car,450,380,4231.76,51.5072,-0.1276
+London,UK,Europe,Student,CityCenter,3BR,5830.12,252,Public,105,380,6567.12,51.5072,-0.1276
+London,UK,Europe,Student,CityCenter,3BR,5830.12,252,Car,450,380,6912.12,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,3BR,3952.57,252,Public,105,380,4689.57,51.5072,-0.1276
+London,UK,Europe,Student,OutsideCenter,3BR,3952.57,252,Car,450,380,5034.57,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,1BR,2689.38,180,Public,105,560,3534.38,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,1BR,2689.38,180,Car,450,560,3879.38,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,1BR,2418.95,180,Public,105,560,3263.95,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,1BR,2418.95,180,Car,450,560,3608.95,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,2BR,4259.75,216,Public,105,560,5140.75,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,2BR,4259.75,216,Car,450,560,5485.75,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,2BR,3185.76,216,Public,105,560,4066.76,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,2BR,3185.76,216,Car,450,560,4411.76,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,3BR,5830.12,252,Public,105,560,6747.12,51.5072,-0.1276
+London,UK,Europe,Professional,CityCenter,3BR,5830.12,252,Car,450,560,7092.12,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,3BR,3952.57,252,Public,105,560,4869.57,51.5072,-0.1276
+London,UK,Europe,Professional,OutsideCenter,3BR,3952.57,252,Car,450,560,5214.57,51.5072,-0.1276
+London,UK,Europe,Family,CityCenter,2BR,4259.75,259.2,Public,105,1150,5773.95,51.5072,-0.1276
+London,UK,Europe,Family,CityCenter,2BR,4259.75,259.2,Car,450,1150,6118.95,51.5072,-0.1276
+London,UK,Europe,Family,OutsideCenter,2BR,3185.76,259.2,Public,105,1150,4699.96,51.5072,-0.1276
+London,UK,Europe,Family,OutsideCenter,2BR,3185.76,259.2,Car,450,1150,5044.96,51.5072,-0.1276
+London,UK,Europe,Family,CityCenter,3BR,5830.12,302.4,Public,105,1150,7387.52,51.5072,-0.1276
+London,UK,Europe,Family,CityCenter,3BR,5830.12,302.4,Car,450,1150,7732.52,51.5072,-0.1276
+London,UK,Europe,Family,OutsideCenter,3BR,3952.57,302.4,Public,105,1150,5509.97,51.5072,-0.1276
+London,UK,Europe,Family,OutsideCenter,3BR,3952.57,302.4,Car,450,1150,5854.97,51.5072,-0.1276
+Madrid,Spain,Europe,Student,CityCenter,1BR,1100,120,Public,50,280,1550,40.4167,-3.7033
+Madrid,Spain,Europe,Student,CityCenter,1BR,1100,120,Car,300,280,1800,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,1BR,800,120,Public,50,280,1250,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,1BR,800,120,Car,300,280,1500,40.4167,-3.7033
+Madrid,Spain,Europe,Student,CityCenter,2BR,1650,144,Public,50,280,2124,40.4167,-3.7033
+Madrid,Spain,Europe,Student,CityCenter,2BR,1650,144,Car,300,280,2374,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,2BR,1200,144,Public,50,280,1674,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,2BR,1200,144,Car,300,280,1924,40.4167,-3.7033
+Madrid,Spain,Europe,Student,CityCenter,3BR,2200,168,Public,50,280,2698,40.4167,-3.7033
+Madrid,Spain,Europe,Student,CityCenter,3BR,2200,168,Car,300,280,2948,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,3BR,1600,168,Public,50,280,2098,40.4167,-3.7033
+Madrid,Spain,Europe,Student,OutsideCenter,3BR,1600,168,Car,300,280,2348,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,1BR,1100,120,Public,50,400,1670,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,1BR,1100,120,Car,300,400,1920,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,1BR,800,120,Public,50,400,1370,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,1BR,800,120,Car,300,400,1620,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,2BR,1650,144,Public,50,400,2244,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,2BR,1650,144,Car,300,400,2494,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,2BR,1200,144,Public,50,400,1794,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,2BR,1200,144,Car,300,400,2044,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,3BR,2200,168,Public,50,400,2818,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,CityCenter,3BR,2200,168,Car,300,400,3068,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,3BR,1600,168,Public,50,400,2218,40.4167,-3.7033
+Madrid,Spain,Europe,Professional,OutsideCenter,3BR,1600,168,Car,300,400,2468,40.4167,-3.7033
+Madrid,Spain,Europe,Family,CityCenter,2BR,1650,172.8,Public,50,850,2722.8,40.4167,-3.7033
+Madrid,Spain,Europe,Family,CityCenter,2BR,1650,172.8,Car,300,850,2972.8,40.4167,-3.7033
+Madrid,Spain,Europe,Family,OutsideCenter,2BR,1200,172.8,Public,50,850,2272.8,40.4167,-3.7033
+Madrid,Spain,Europe,Family,OutsideCenter,2BR,1200,172.8,Car,300,850,2522.8,40.4167,-3.7033
+Madrid,Spain,Europe,Family,CityCenter,3BR,2200,201.6,Public,50,850,3301.6,40.4167,-3.7033
+Madrid,Spain,Europe,Family,CityCenter,3BR,2200,201.6,Car,300,850,3551.6,40.4167,-3.7033
+Madrid,Spain,Europe,Family,OutsideCenter,3BR,1600,201.6,Public,50,850,2701.6,40.4167,-3.7033
+Madrid,Spain,Europe,Family,OutsideCenter,3BR,1600,201.6,Car,300,850,2951.6,40.4167,-3.7033
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,1BR,369.9,70,Public,12.42,180,632.32,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,1BR,369.9,70,Car,200,180,819.9,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,1BR,219.84,70,Public,12.42,180,482.26,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,1BR,219.84,70,Car,200,180,669.84,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,2BR,787.8,84,Public,12.42,180,1064.22,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,2BR,787.8,84,Car,200,180,1251.8,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,2BR,437.31,84,Public,12.42,180,713.74,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,2BR,437.31,84,Car,200,180,901.32,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,3BR,1205.7,98,Public,12.42,180,1496.12,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,CityCenter,3BR,1205.7,98,Car,200,180,1683.7,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,3BR,654.79,98,Public,12.42,180,945.21,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Student,OutsideCenter,3BR,654.79,98,Car,200,180,1132.79,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,1BR,369.9,70,Public,12.42,260,712.32,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,1BR,369.9,70,Car,200,260,899.9,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,1BR,219.84,70,Public,12.42,260,562.26,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,1BR,219.84,70,Car,200,260,749.84,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,2BR,787.8,84,Public,12.42,260,1144.22,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,2BR,787.8,84,Car,200,260,1331.8,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,2BR,437.31,84,Public,12.42,260,793.74,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,2BR,437.31,84,Car,200,260,981.32,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,3BR,1205.7,98,Public,12.42,260,1576.12,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,CityCenter,3BR,1205.7,98,Car,200,260,1763.7,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,3BR,654.79,98,Public,12.42,260,1025.21,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Professional,OutsideCenter,3BR,654.79,98,Car,200,260,1212.79,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,CityCenter,2BR,787.8,100.8,Public,12.42,520,1421.02,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,CityCenter,2BR,787.8,100.8,Car,200,520,1608.6,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,OutsideCenter,2BR,437.31,100.8,Public,12.42,520,1070.54,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,OutsideCenter,2BR,437.31,100.8,Car,200,520,1258.12,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,CityCenter,3BR,1205.7,117.6,Public,12.42,520,1855.72,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,CityCenter,3BR,1205.7,117.6,Car,200,520,2043.3,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,OutsideCenter,3BR,654.79,117.6,Public,12.42,520,1304.81,41.0098,28.9652
+Istanbul,Turkey,Asia-Pacific,Family,OutsideCenter,3BR,654.79,117.6,Car,200,520,1492.39,41.0098,28.9652
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,1BR,3160.97,150,Public,267.06,120,3698.03,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,1BR,3160.97,150,Car,350,120,3780.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,1BR,2346.31,150,Public,267.06,120,2883.37,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,1BR,2346.31,150,Car,350,120,2966.31,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,2BR,4123.91,180,Public,267.06,120,4690.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,2BR,4123.91,180,Car,350,120,4773.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,2BR,3136.91,180,Public,267.06,120,3703.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,2BR,3136.91,180,Car,350,120,3786.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,3BR,5086.85,210,Public,267.06,120,5683.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,CityCenter,3BR,5086.85,210,Car,350,120,5766.85,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,3BR,3927.52,210,Public,267.06,120,4524.58,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Student,OutsideCenter,3BR,3927.52,210,Car,350,120,4607.52,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,1BR,3160.97,150,Public,267.06,180,3758.03,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,1BR,3160.97,150,Car,350,180,3840.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,1BR,2346.31,150,Public,267.06,180,2943.37,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,1BR,2346.31,150,Car,350,180,3026.31,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,2BR,4123.91,180,Public,267.06,180,4750.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,2BR,4123.91,180,Car,350,180,4833.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,2BR,3136.91,180,Public,267.06,180,3763.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,2BR,3136.91,180,Car,350,180,3846.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,3BR,5086.85,210,Public,267.06,180,5743.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,CityCenter,3BR,5086.85,210,Car,350,180,5826.85,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,3BR,3927.52,210,Public,267.06,180,4584.58,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Professional,OutsideCenter,3BR,3927.52,210,Car,350,180,4667.52,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,CityCenter,2BR,4123.91,216,Public,267.06,350,4956.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,CityCenter,2BR,4123.91,216,Car,350,350,5039.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,OutsideCenter,2BR,3136.91,216,Public,267.06,350,3969.97,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,OutsideCenter,2BR,3136.91,216,Car,350,350,4052.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,CityCenter,3BR,5086.85,252,Public,267.06,350,5955.91,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,CityCenter,3BR,5086.85,252,Car,350,350,6038.85,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,OutsideCenter,3BR,3927.52,252,Public,267.06,350,4796.58,-6.175,106.8266
+Jakarta,Indonesia,Asia-Pacific,Family,OutsideCenter,3BR,3927.52,252,Car,350,350,4879.52,-6.175,106.8266
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,1BR,1450.48,100,Public,75,90,1715.48,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,1BR,1450.48,100,Car,300,90,1940.48,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,1BR,1204.09,100,Public,75,90,1469.09,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,1BR,1204.09,100,Car,300,90,1694.09,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,2BR,2055.02,120,Public,75,90,2340.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,2BR,2055.02,120,Car,300,90,2565.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,2BR,1658.84,120,Public,75,90,1943.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,2BR,1658.84,120,Car,300,90,2168.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,3BR,2659.56,140,Public,75,90,2964.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,CityCenter,3BR,2659.56,140,Car,300,90,3189.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,3BR,2113.6,140,Public,75,90,2418.6,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Student,OutsideCenter,3BR,2113.6,140,Car,300,90,2643.6,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,1BR,1450.48,100,Public,75,130,1755.48,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,1BR,1450.48,100,Car,300,130,1980.48,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,1BR,1204.09,100,Public,75,130,1509.09,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,1BR,1204.09,100,Car,300,130,1734.09,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,2BR,2055.02,120,Public,75,130,2380.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,2BR,2055.02,120,Car,300,130,2605.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,2BR,1658.84,120,Public,75,130,1983.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,2BR,1658.84,120,Car,300,130,2208.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,3BR,2659.56,140,Public,75,130,3004.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,CityCenter,3BR,2659.56,140,Car,300,130,3229.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,3BR,2113.6,140,Public,75,130,2458.6,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Professional,OutsideCenter,3BR,2113.6,140,Car,300,130,2683.6,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,CityCenter,2BR,2055.02,144,Public,75,280,2554.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,CityCenter,2BR,2055.02,144,Car,300,280,2779.02,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,OutsideCenter,2BR,1658.84,144,Public,75,280,2157.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,OutsideCenter,2BR,1658.84,144,Car,300,280,2382.84,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,CityCenter,3BR,2659.56,168,Public,75,280,3182.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,CityCenter,3BR,2659.56,168,Car,300,280,3407.56,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,OutsideCenter,3BR,2113.6,168,Public,75,280,2636.6,23.8041,90.4152
+Dhaka,Bangladesh,Asia-Pacific,Family,OutsideCenter,3BR,2113.6,168,Car,300,280,2861.6,23.8041,90.4152
+Delhi,India,Asia-Pacific,Student,CityCenter,1BR,148.75,50,Public,24.54,110,333.29,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,CityCenter,1BR,148.75,50,Car,150,110,458.75,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,1BR,72.64,50,Public,24.54,110,257.18,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,1BR,72.64,50,Car,150,110,382.64,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,CityCenter,2BR,274.39,60,Public,24.54,110,468.93,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,CityCenter,2BR,274.39,60,Car,150,110,594.39,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,2BR,148.03,60,Public,24.54,110,342.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,2BR,148.03,60,Car,150,110,468.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,CityCenter,3BR,400.03,70,Public,24.54,110,604.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,CityCenter,3BR,400.03,70,Car,150,110,730.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,3BR,223.43,70,Public,24.54,110,427.97,28.7041,77.1025
+Delhi,India,Asia-Pacific,Student,OutsideCenter,3BR,223.43,70,Car,150,110,553.43,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,1BR,148.75,50,Public,24.54,160,383.29,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,1BR,148.75,50,Car,150,160,508.75,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,1BR,72.64,50,Public,24.54,160,307.18,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,1BR,72.64,50,Car,150,160,432.64,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,2BR,274.39,60,Public,24.54,160,518.93,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,2BR,274.39,60,Car,150,160,644.39,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,2BR,148.03,60,Public,24.54,160,392.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,2BR,148.03,60,Car,150,160,518.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,3BR,400.03,70,Public,24.54,160,654.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,CityCenter,3BR,400.03,70,Car,150,160,780.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,3BR,223.43,70,Public,24.54,160,477.97,28.7041,77.1025
+Delhi,India,Asia-Pacific,Professional,OutsideCenter,3BR,223.43,70,Car,150,160,603.43,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,CityCenter,2BR,274.39,72,Public,24.54,340,710.93,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,CityCenter,2BR,274.39,72,Car,150,340,836.39,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,OutsideCenter,2BR,148.03,72,Public,24.54,340,584.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,OutsideCenter,2BR,148.03,72,Car,150,340,710.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,CityCenter,3BR,400.03,84,Public,24.54,340,848.57,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,CityCenter,3BR,400.03,84,Car,150,340,974.03,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,OutsideCenter,3BR,223.43,84,Public,24.54,340,671.97,28.7041,77.1025
+Delhi,India,Asia-Pacific,Family,OutsideCenter,3BR,223.43,84,Car,150,340,797.43,28.7041,77.1025
+Los Angeles,USA,North America,Student,CityCenter,1BR,1486.86,160,Public,40.65,420,2107.51,34.0549,-118.2426
+Los Angeles,USA,North America,Student,CityCenter,1BR,1486.86,160,Car,450,420,2516.86,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,1BR,1155.98,160,Public,40.65,420,1776.63,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,1BR,1155.98,160,Car,450,420,2185.98,34.0549,-118.2426
+Los Angeles,USA,North America,Student,CityCenter,2BR,2132.25,192,Public,40.65,420,2784.9,34.0549,-118.2426
+Los Angeles,USA,North America,Student,CityCenter,2BR,2132.25,192,Car,450,420,3194.25,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,2BR,1477.99,192,Public,40.65,420,2130.64,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,2BR,1477.99,192,Car,450,420,2539.99,34.0549,-118.2426
+Los Angeles,USA,North America,Student,CityCenter,3BR,2777.64,224,Public,40.65,420,3462.29,34.0549,-118.2426
+Los Angeles,USA,North America,Student,CityCenter,3BR,2777.64,224,Car,450,420,3871.64,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,3BR,1799.99,224,Public,40.65,420,2484.64,34.0549,-118.2426
+Los Angeles,USA,North America,Student,OutsideCenter,3BR,1799.99,224,Car,450,420,2893.99,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,1BR,1486.86,160,Public,40.65,600,2287.51,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,1BR,1486.86,160,Car,450,600,2696.86,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,1BR,1155.98,160,Public,40.65,600,1956.63,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,1BR,1155.98,160,Car,450,600,2365.98,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,2BR,2132.25,192,Public,40.65,600,2964.9,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,2BR,2132.25,192,Car,450,600,3374.25,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,2BR,1477.99,192,Public,40.65,600,2310.64,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,2BR,1477.99,192,Car,450,600,2719.99,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,3BR,2777.64,224,Public,40.65,600,3642.29,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,CityCenter,3BR,2777.64,224,Car,450,600,4051.64,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,3BR,1799.99,224,Public,40.65,600,2664.64,34.0549,-118.2426
+Los Angeles,USA,North America,Professional,OutsideCenter,3BR,1799.99,224,Car,450,600,3073.99,34.0549,-118.2426
+Los Angeles,USA,North America,Family,CityCenter,2BR,2132.25,230.4,Public,40.65,1250,3653.3,34.0549,-118.2426
+Los Angeles,USA,North America,Family,CityCenter,2BR,2132.25,230.4,Car,450,1250,4062.65,34.0549,-118.2426
+Los Angeles,USA,North America,Family,OutsideCenter,2BR,1477.99,230.4,Public,40.65,1250,2999.04,34.0549,-118.2426
+Los Angeles,USA,North America,Family,OutsideCenter,2BR,1477.99,230.4,Car,450,1250,3408.39,34.0549,-118.2426
+Los Angeles,USA,North America,Family,CityCenter,3BR,2777.64,268.8,Public,40.65,1250,4337.09,34.0549,-118.2426
+Los Angeles,USA,North America,Family,CityCenter,3BR,2777.64,268.8,Car,450,1250,4746.44,34.0549,-118.2426
+Los Angeles,USA,North America,Family,OutsideCenter,3BR,1799.99,268.8,Public,40.65,1250,3359.44,34.0549,-118.2426
+Los Angeles,USA,North America,Family,OutsideCenter,3BR,1799.99,268.8,Car,450,1250,3768.79,34.0549,-118.2426
+Cairo,Egypt,Africa,Student,CityCenter,1BR,224.13,40,Public,7.12,70,341.25,30.0445,31.2388
+Cairo,Egypt,Africa,Student,CityCenter,1BR,224.13,40,Car,150,70,484.13,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,1BR,170.91,40,Public,7.12,70,288.03,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,1BR,170.91,40,Car,150,70,430.91,30.0445,31.2388
+Cairo,Egypt,Africa,Student,CityCenter,2BR,367.68,48,Public,7.12,70,492.8,30.0445,31.2388
+Cairo,Egypt,Africa,Student,CityCenter,2BR,367.68,48,Car,150,70,635.68,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,2BR,243.45,48,Public,7.12,70,368.57,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,2BR,243.45,48,Car,150,70,511.45,30.0445,31.2388
+Cairo,Egypt,Africa,Student,CityCenter,3BR,511.23,56,Public,7.12,70,644.35,30.0445,31.2388
+Cairo,Egypt,Africa,Student,CityCenter,3BR,511.23,56,Car,150,70,787.23,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,3BR,316,56,Public,7.12,70,449.12,30.0445,31.2388
+Cairo,Egypt,Africa,Student,OutsideCenter,3BR,316,56,Car,150,70,592,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,1BR,224.13,40,Public,7.12,100,371.25,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,1BR,224.13,40,Car,150,100,514.13,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,1BR,170.91,40,Public,7.12,100,318.03,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,1BR,170.91,40,Car,150,100,460.91,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,2BR,367.68,48,Public,7.12,100,522.8,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,2BR,367.68,48,Car,150,100,665.68,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,2BR,243.45,48,Public,7.12,100,398.57,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,2BR,243.45,48,Car,150,100,541.45,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,3BR,511.23,56,Public,7.12,100,674.35,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,CityCenter,3BR,511.23,56,Car,150,100,817.23,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,3BR,316,56,Public,7.12,100,479.12,30.0445,31.2388
+Cairo,Egypt,Africa,Professional,OutsideCenter,3BR,316,56,Car,150,100,622,30.0445,31.2388
+Cairo,Egypt,Africa,Family,CityCenter,2BR,367.68,57.6,Public,7.12,220,652.4,30.0445,31.2388
+Cairo,Egypt,Africa,Family,CityCenter,2BR,367.68,57.6,Car,150,220,795.28,30.0445,31.2388
+Cairo,Egypt,Africa,Family,OutsideCenter,2BR,243.45,57.6,Public,7.12,220,528.17,30.0445,31.2388
+Cairo,Egypt,Africa,Family,OutsideCenter,2BR,243.45,57.6,Car,150,220,671.05,30.0445,31.2388
+Cairo,Egypt,Africa,Family,CityCenter,3BR,511.23,67.2,Public,7.12,220,805.55,30.0445,31.2388
+Cairo,Egypt,Africa,Family,CityCenter,3BR,511.23,67.2,Car,150,220,948.43,30.0445,31.2388
+Cairo,Egypt,Africa,Family,OutsideCenter,3BR,316,67.2,Public,7.12,220,610.32,30.0445,31.2388
+Cairo,Egypt,Africa,Family,OutsideCenter,3BR,316,67.2,Car,150,220,753.2,30.0445,31.2388
+Sao Paulo,Brazil,South America,Student,CityCenter,1BR,669.14,70,Public,5.44,120,864.58,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,CityCenter,1BR,669.14,70,Car,200,120,1059.14,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,1BR,363.09,70,Public,5.44,120,558.53,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,1BR,363.09,70,Car,200,120,753.09,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,CityCenter,2BR,1333.88,84,Public,5.44,120,1543.32,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,CityCenter,2BR,1333.88,84,Car,200,120,1737.88,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,2BR,599.1,84,Public,5.44,120,808.54,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,2BR,599.1,84,Car,200,120,1003.1,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,CityCenter,3BR,1998.61,98,Public,5.44,120,2222.05,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,CityCenter,3BR,1998.61,98,Car,200,120,2416.61,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,3BR,835.1,98,Public,5.44,120,1058.54,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Student,OutsideCenter,3BR,835.1,98,Car,200,120,1253.1,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,1BR,669.14,70,Public,5.44,180,924.58,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,1BR,669.14,70,Car,200,180,1119.14,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,1BR,363.09,70,Public,5.44,180,618.53,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,1BR,363.09,70,Car,200,180,813.09,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,2BR,1333.88,84,Public,5.44,180,1603.32,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,2BR,1333.88,84,Car,200,180,1797.88,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,2BR,599.1,84,Public,5.44,180,868.54,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,2BR,599.1,84,Car,200,180,1063.1,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,3BR,1998.61,98,Public,5.44,180,2282.05,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,CityCenter,3BR,1998.61,98,Car,200,180,2476.61,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,3BR,835.1,98,Public,5.44,180,1118.54,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Professional,OutsideCenter,3BR,835.1,98,Car,200,180,1313.1,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,CityCenter,2BR,1333.88,100.8,Public,5.44,380,1820.12,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,CityCenter,2BR,1333.88,100.8,Car,200,380,2014.67,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,OutsideCenter,2BR,599.1,100.8,Public,5.44,380,1085.34,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,OutsideCenter,2BR,599.1,100.8,Car,200,380,1279.89,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,CityCenter,3BR,1998.61,117.6,Public,5.44,380,2501.65,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,CityCenter,3BR,1998.61,117.6,Car,200,380,2696.21,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,OutsideCenter,3BR,835.1,117.6,Public,5.44,380,1338.14,-23.5558,-46.6396
+Sao Paulo,Brazil,South America,Family,OutsideCenter,3BR,835.1,117.6,Car,200,380,1532.7,-23.5558,-46.6396
+Mumbai,India,Asia-Pacific,Student,CityCenter,1BR,593.29,60,Public,20.29,100,773.58,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,CityCenter,1BR,593.29,60,Car,180,100,933.29,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,1BR,272.46,60,Public,20.29,100,452.75,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,1BR,272.46,60,Car,180,100,612.46,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,CityCenter,2BR,942.46,72,Public,20.29,100,1134.75,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,CityCenter,2BR,942.46,72,Car,180,100,1294.46,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,2BR,411.59,72,Public,20.29,100,603.88,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,2BR,411.59,72,Car,180,100,763.59,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,CityCenter,3BR,1291.63,84,Public,20.29,100,1495.92,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,CityCenter,3BR,1291.63,84,Car,180,100,1655.63,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,3BR,550.71,84,Public,20.29,100,755,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Student,OutsideCenter,3BR,550.71,84,Car,180,100,914.71,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,1BR,593.29,60,Public,20.29,140,813.58,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,1BR,593.29,60,Car,180,140,973.29,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,1BR,272.46,60,Public,20.29,140,492.75,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,1BR,272.46,60,Car,180,140,652.46,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,2BR,942.46,72,Public,20.29,140,1174.75,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,2BR,942.46,72,Car,180,140,1334.46,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,2BR,411.59,72,Public,20.29,140,643.88,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,2BR,411.59,72,Car,180,140,803.59,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,3BR,1291.63,84,Public,20.29,140,1535.92,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,CityCenter,3BR,1291.63,84,Car,180,140,1695.63,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,3BR,550.71,84,Public,20.29,140,795,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Professional,OutsideCenter,3BR,550.71,84,Car,180,140,954.71,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,CityCenter,2BR,942.46,86.4,Public,20.29,300,1349.15,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,CityCenter,2BR,942.46,86.4,Car,180,300,1508.86,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,OutsideCenter,2BR,411.59,86.4,Public,20.29,300,818.27,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,OutsideCenter,2BR,411.59,86.4,Car,180,300,977.99,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,CityCenter,3BR,1291.63,100.8,Public,20.29,300,1712.72,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,CityCenter,3BR,1291.63,100.8,Car,180,300,1872.43,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,OutsideCenter,3BR,550.71,100.8,Public,20.29,300,971.8,18.9582,72.8320
+Mumbai,India,Asia-Pacific,Family,OutsideCenter,3BR,550.71,100.8,Car,180,300,1131.51,18.9582,72.8320
+Guangzhou,China,Asia-Pacific,Student,CityCenter,1BR,148.44,80,Public,8.95,180,417.39,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,CityCenter,1BR,148.44,80,Car,150,180,558.44,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,1BR,83.89,80,Public,8.95,180,352.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,1BR,83.89,80,Car,150,180,493.89,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,CityCenter,2BR,240.66,96,Public,8.95,180,525.62,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,CityCenter,2BR,240.66,96,Car,150,180,666.66,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,2BR,146.84,96,Public,8.95,180,431.79,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,2BR,146.84,96,Car,150,180,572.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,CityCenter,3BR,332.89,112,Public,8.95,180,633.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,CityCenter,3BR,332.89,112,Car,150,180,774.89,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,3BR,209.79,112,Public,8.95,180,510.74,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Student,OutsideCenter,3BR,209.79,112,Car,150,180,651.79,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,1BR,148.44,80,Public,8.95,260,497.39,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,1BR,148.44,80,Car,150,260,638.44,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,1BR,83.89,80,Public,8.95,260,432.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,1BR,83.89,80,Car,150,260,573.89,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,2BR,240.66,96,Public,8.95,260,605.62,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,2BR,240.66,96,Car,150,260,746.66,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,2BR,146.84,96,Public,8.95,260,511.79,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,2BR,146.84,96,Car,150,260,652.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,3BR,332.89,112,Public,8.95,260,713.84,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,CityCenter,3BR,332.89,112,Car,150,260,854.89,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,3BR,209.79,112,Public,8.95,260,590.74,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Professional,OutsideCenter,3BR,209.79,112,Car,150,260,731.79,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,CityCenter,2BR,240.66,115.2,Public,8.95,520,884.82,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,CityCenter,2BR,240.66,115.2,Car,150,520,1025.87,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,OutsideCenter,2BR,146.84,115.2,Public,8.95,520,790.99,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,OutsideCenter,2BR,146.84,115.2,Car,150,520,932.04,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,CityCenter,3BR,332.89,134.4,Public,8.95,520,996.24,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,CityCenter,3BR,332.89,134.4,Car,150,520,1137.29,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,OutsideCenter,3BR,209.79,134.4,Public,8.95,520,873.14,23.1291,113.2644
+Guangzhou,China,Asia-Pacific,Family,OutsideCenter,3BR,209.79,134.4,Car,150,520,1014.19,23.1291,113.2644
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,1BR,1640,90,Public,21.74,90,1841.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,1BR,1640,90,Car,200,90,2020,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,1BR,500,90,Public,21.74,90,701.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,1BR,500,90,Car,200,90,880,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,2BR,2520,108,Public,21.74,90,2739.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,2BR,2520,108,Car,200,90,2918,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,2BR,780,108,Public,21.74,90,999.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,2BR,780,108,Car,200,90,1178,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,3BR,3400,126,Public,21.74,90,3637.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,CityCenter,3BR,3400,126,Car,200,90,3816,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,3BR,1060,126,Public,21.74,90,1297.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Student,OutsideCenter,3BR,1060,126,Car,200,90,1476,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,1BR,1640,90,Public,21.74,130,1881.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,1BR,1640,90,Car,200,130,2060,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,1BR,500,90,Public,21.74,130,741.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,1BR,500,90,Car,200,130,920,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,2BR,2520,108,Public,21.74,130,2779.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,2BR,2520,108,Car,200,130,2958,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,2BR,780,108,Public,21.74,130,1039.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,2BR,780,108,Car,200,130,1218,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,3BR,3400,126,Public,21.74,130,3677.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,CityCenter,3BR,3400,126,Car,200,130,3856,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,3BR,1060,126,Public,21.74,130,1337.74,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Professional,OutsideCenter,3BR,1060,126,Car,200,130,1516,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,CityCenter,2BR,2520,129.6,Public,21.74,280,2951.34,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,CityCenter,2BR,2520,129.6,Car,200,280,3129.6,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,OutsideCenter,2BR,780,129.6,Public,21.74,280,1211.34,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,OutsideCenter,2BR,780,129.6,Car,200,280,1389.6,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,CityCenter,3BR,3400,151.2,Public,21.74,280,3852.94,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,CityCenter,3BR,3400,151.2,Car,200,280,4031.2,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,OutsideCenter,3BR,1060,151.2,Public,21.74,280,1512.94,24.8607,67.0011
+Karachi,Pakistan,Asia-Pacific,Family,OutsideCenter,3BR,1060,151.2,Car,200,280,1691.2,24.8607,67.0011
+Kinshasa,DR Congo,Africa,Student,CityCenter,1BR,800,50,Public,15,60,925,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,CityCenter,1BR,800,50,Car,180,60,1090,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,1BR,400,50,Public,15,60,525,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,1BR,400,50,Car,180,60,690,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,CityCenter,2BR,1400,60,Public,15,60,1535,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,CityCenter,2BR,1400,60,Car,180,60,1700,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,2BR,600,60,Public,15,60,735,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,2BR,600,60,Car,180,60,900,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,CityCenter,3BR,2000,70,Public,15,60,2145,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,CityCenter,3BR,2000,70,Car,180,60,2310,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,3BR,800,70,Public,15,60,945,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Student,OutsideCenter,3BR,800,70,Car,180,60,1110,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,1BR,800,50,Public,15,90,955,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,1BR,800,50,Car,180,90,1120,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,1BR,400,50,Public,15,90,555,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,1BR,400,50,Car,180,90,720,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,2BR,1400,60,Public,15,90,1565,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,2BR,1400,60,Car,180,90,1730,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,2BR,600,60,Public,15,90,765,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,2BR,600,60,Car,180,90,930,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,3BR,2000,70,Public,15,90,2175,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,CityCenter,3BR,2000,70,Car,180,90,2340,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,3BR,800,70,Public,15,90,975,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Professional,OutsideCenter,3BR,800,70,Car,180,90,1140,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,CityCenter,2BR,1400,72,Public,15,200,1687,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,CityCenter,2BR,1400,72,Car,180,200,1852,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,OutsideCenter,2BR,600,72,Public,15,200,887,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,OutsideCenter,2BR,600,72,Car,180,200,1052,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,CityCenter,3BR,2000,84,Public,15,200,2299,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,CityCenter,3BR,2000,84,Car,180,200,2464,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,OutsideCenter,3BR,800,84,Public,15,200,1099,-4.3033,15.3105
+Kinshasa,DR Congo,Africa,Family,OutsideCenter,3BR,800,84,Car,180,200,1264,-4.3033,15.3105
