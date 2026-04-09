@@ -565,13 +565,19 @@ table_df = (
 
 money_cols = ["Rent", "Utilities", "Transport", "Groceries", "Total / mo.", "Min. Salary Needed"]
 
+ROW_HEIGHT = 35   # px per data row
+HEADER_HEIGHT = 38  # px for the header row
+MAX_HEIGHT = 600    # cap so very large results don't push the page too long
+dynamic_height = min(len(table_df) * ROW_HEIGHT + HEADER_HEIGHT, MAX_HEIGHT)
+
 st.dataframe(
     table_df.style
         .format({c: "${:,.0f}" for c in money_cols})
         .format({"% of Income": "{:.1f}%"})
         .map(_color_category, subset=["Category"]),
     use_container_width=True,
-    height=420,
+    height=dynamic_height,
+    hide_index=True,
 )
 
 st.download_button(
